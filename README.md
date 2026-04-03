@@ -90,35 +90,29 @@ Jupyter Notebook / Python Script
 
 ## 📸 Screenshots
 
-### 🔐 Dataset Example
+### 🔐 Raw Dataset Example
 ![Dataset](screenshots/dataset.png)
 
-### 📩 Feature Engineering
-![Feature](screenshots/feature.png)
+### 🎨 IHC Staining - Color Decomposition
+![IHC](screenshots/ihc.png)
 
-### 🔄 Data Preparation
-![Data Preparation](screenshots/data-prep.png)
+### 🧪 H, E, D Channel Separation
+![HED](screenshots/hed.png)
 
-### 🏠 Model Output (CSV Result)
-![Output CSV](screenshots/output-csv.png)
+### 🔄 Image Enhancement Result
+![Enhancement](screenshots/enhancement.png)
 
-### 🏠 Model Evaluation
+### 🧠 CNN Training Pipeline
+![CNN](screenshots/cnn.png)
+
+### 📊 Model Evaluation
 ![Evaluation](screenshots/evaluation.png)
 
-### 🏠 Confusion Matrix (Train)
-![CM-test](screenshots/cm-train.png)
+### 🧠 ResNet50 Results
+![ResNet](screenshots/resnet.png)
 
-### 🏠 Accuracy (Train)
-![Accuracy-train](screenshots/accuracy-train.png)
-
-### 🏠 Save Model (Train)
-![Model](screenshots/model.png)
-
-### 🏠 Confusion Matrix (Test)
-![CM_test](screenshots/cm-test.png)
-
-### 🏠 Accuracy (Test)
-![Accuracy_test](screenshots/accuracy-test.png)
+### 🏠 🧠 VGG16 Results
+![VGG1](screenshots/vgg.png)
 
 ---
 
